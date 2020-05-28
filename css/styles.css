@@ -30,7 +30,7 @@ html,body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: fixed;
+    position: relative;
 }
   
 .title .title-text {
